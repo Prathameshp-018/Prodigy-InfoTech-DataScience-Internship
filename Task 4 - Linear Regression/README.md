@@ -16,7 +16,6 @@ This helps understand how different car features influence the overall market pr
 |------------|-------------|
 | `Task4_Linear_Regression.ipynb` | Jupyter notebook with complete code, data analysis, and model training. |
 | `CarPrice_Assignment.csv` | Dataset used for training and testing the model. |
-| `linear_regression_model.pkl` | Saved trained model (optional). |
 | `README.md` | This file, explaining the task details. |
 
 ---
